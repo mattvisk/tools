@@ -1,0 +1,24 @@
+/* Trello Minimal */
+
+#header,
+.board-header,
+.I-iCwwqNKUHRs7,
+.list-header-extras,
+.icon-template-card
+ {display:none}
+
+#board {
+  /* display:flex; */
+  /* flex-wrap: wrap; */
+}
+.js-list {
+  margin:0 10px;
+  font-size:14px;
+}
+.js-open-card-composer {
+  text-align:center;
+  text-indent:-8px;
+}
+.js-open-card-composer * {
+  color:rgba(0,0,0,.1);
+}
