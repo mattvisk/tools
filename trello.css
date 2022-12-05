@@ -3,9 +3,11 @@
 #header,
 .board-header,
 .I-iCwwqNKUHRs7,
-.list-header-extras,
 .icon-template-card
- {display:none}
+{
+  display:none;
+  /* opacity: .6; */
+}
 
 #board {
   /* display:flex; */
