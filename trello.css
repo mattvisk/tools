@@ -1,12 +1,14 @@
 /* Trello Minimal */
-
 #header,
-.board-header,
+.board-header *,
 .I-iCwwqNKUHRs7,
 .icon-template-card
-{
-  display:none;
-  /* opacity: .6; */
+ {display:none}
+
+.inline-rename-board,
+.inline-rename-board * {
+  display:block;
+  margin-left:-8px;
 }
 
 #board {
