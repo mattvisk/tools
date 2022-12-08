@@ -1,16 +1,21 @@
 /* Trello Minimal */
+.blY1EwBcXBUE-i {
+  display:none;
+}
 #header,
 .board-header *,
 .I-iCwwqNKUHRs7,
-.icon-template-card
- {display:none}
-
+.icon-template-card {
+  display:none;
+}
 .inline-rename-board,
 .inline-rename-board * {
   display:block;
   margin-left:-8px;
 }
-
+.board-header {
+  padding:20px 30px;
+}
 #board {
   /* display:flex; */
   /* flex-wrap: wrap; */
